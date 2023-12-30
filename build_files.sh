@@ -11,4 +11,4 @@ npm run build
 cd ..
 
 pip install -r requirements.txt 
-python3.7 manage.py collectstatic
+python manage.py collectstatic
