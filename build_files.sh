@@ -2,6 +2,9 @@
 # Navigate to the frontend directory
 cd frontend
 
+# Set CI environment variable to false to prevent treating warnings as errors
+export CI=false
+
 # Install dependencies
 npm install
 
@@ -11,4 +14,4 @@ npm run build
 cd ..
 
 pip install -r requirements.txt 
-python manage.py collectstatic
+python3.9 manage.py collectstatic
