@@ -142,7 +142,6 @@ STATIC_URL = '/static/'
 
 STATICFILES_DIRS = [                         # Configure react static files with Django
     BASE_DIR / 'frontend/build/static',
-    BASE_DIR / 'static',
 ]
 
 # Default primary key field type
