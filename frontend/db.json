@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "body": "Complete Custom hook",
+      "updated": "2023-12-29T09:24:42.869Z"
+    },
+    {
+      "id": 2,
+      "body": "Take out trash\n",
+      "updated": "2023-12-29T09:24:46.135Z"
+    },
+    {
+      "body": "Dinner",
+      "updated": "2023-12-29T09:24:59.408Z",
+      "id": 3
+    }
+  ]
+}
